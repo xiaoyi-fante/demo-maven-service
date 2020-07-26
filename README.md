@@ -10,7 +10,7 @@ main application works as expected. The results of these tests are saved to a
 JUnit XML report.
 
 The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
-you'll be creating you rself     during th e tutorial and the `scripts` subdirectory
+you'll be creating you r self     during th e tutorial and the `scripts` subdirectory
 contains a shell script  wi  th commands that are executed when Jenkins processes
 the "Deliver" stag   e of your    Pip eline.           dsddddd
                                          dd  s  df ddss  ss    
