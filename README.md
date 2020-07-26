@@ -12,5 +12,5 @@ JUnit XML report.
 The `jenkins` directory co  ntains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creati ng yo u r self       during th e tutorial and the `scripts` subdirectory
 contains a  shell sc ript   wi  th commands that are executed when Jenkins processes
-the "Deliver" stag   e of your    Pi p eline.           dsddddd
+the "Deliver" stag    e of your    Pi p eline.           dsddddd
                                            dd  s  df ddss  ss    
