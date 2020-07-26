@@ -5,7 +5,7 @@ This repository is for the
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
 
 The repository contains a simpl  e Java application which outputs the string
-"Hello world!" and is accompanied by a couple of unit tests to check that the
+"Hello world!" and is accompanied by a co uple of unit tests to check that the
 main application works as expected. Th e results of these tests are saved to a
 JUnit XML report.
  
