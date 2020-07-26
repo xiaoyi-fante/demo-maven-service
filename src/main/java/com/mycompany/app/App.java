@@ -7,6 +7,7 @@ public class App
 {
 
     private final String message = "Hello World!";
+    public final int thres = 3;
 
     public App() {}
 
