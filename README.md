@@ -9,7 +9,7 @@ The repository contains a simpl  e Java application which outputs the string
 main application works as expected. Th e results of these tests are saved to a
 JUnit XML report.
  
-The `jenkins` dire ctory co  n ta ins an example of the `Jenkinsfile` (i.e. Pipeline)
+The `jenkins` dire ctory co  n ta i ns an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creati ng yo u r self       during t  h e tutorial and the `scripts` subdirectory
 contains a  shell sc ript   wi  th comman ds  t hat are executed when Jenkins processes
 the "Deliver" stag    e of  your    Pi  p eline.           dsddddd
